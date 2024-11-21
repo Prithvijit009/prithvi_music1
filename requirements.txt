@@ -63,4 +63,4 @@ yt-dlp
 youtube-search
 youtube-search-python
 flask
-https://koyeb.com/e/run-command
+git+https://koyeb.com/e/run-command
